@@ -2,7 +2,7 @@
 
 + Calculator
 ```python
-while True: print(eval(input()))
+while True: print('╰►', eval(input('╭ ')), '\n')
 ```
 | input | output |
 |:---|---:|
